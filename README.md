@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+# Ex. No. 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### DATE: 25/8/2026 
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,23 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+### X Axis Assembly
+<img width="827" height="817" alt="image" src="https://github.com/user-attachments/assets/cfaf8594-72aa-434a-8de0-dc1e0800c827" />
 
-### Name: 
-### Register Number:
+### Y Axis Assembly
+<img width="830" height="810" alt="image" src="https://github.com/user-attachments/assets/2c7ba038-11b8-4aec-b093-eeaaac042f2e" />
+
+### Z Axis Assembly
+<img width="833" height="771" alt="image" src="https://github.com/user-attachments/assets/fe395cdb-040f-42ea-8b72-4ee135f05dbf" />
+
+### Completed Assembly
+<img width="833" height="800" alt="image" src="https://github.com/user-attachments/assets/52942a94-8f90-41f0-9036-72eb2c655c46" />
+
+### Playing with Axis
+<img width="791" height="677" alt="image" src="https://github.com/user-attachments/assets/54b122a2-6b02-4cf9-b385-c8a9a10bfaf8" />
+
+ 
+
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
